@@ -1,3 +1,5 @@
+* <b>Important Note:</b> Although I've specified explicitely the x-axis text, RStudio made this one with the locale configuration. For this reason, you will view the ticks "Jue", "Vie" and "Sáb" (in Spanish) instead of the ticks "Thu", "Fri" and "Sat" respectively. If you explore the code of the script, the x-axis has been coded in order to show the correct ticks, but this did not work.
+
 ## Introduction
 
 This assignment uses data from
